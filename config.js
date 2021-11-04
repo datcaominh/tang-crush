@@ -1,7 +1,6 @@
 const CONFIG = {
     introTitle: 'heo à!',
     introDesc: `a mún nói là a mún đấm em vl , ăn j mà suốt ngày quạu r dỗi :)) `,
-    btnIntro: ':>>',
     btnIntro: ':<<',
     title: 'em có stupid ko 😙',
     desc: 'trả lời ',
