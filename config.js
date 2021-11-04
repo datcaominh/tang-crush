@@ -10,7 +10,7 @@ const CONFIG = {
     question:'BAO LÂU BÁN ĐƯỢC MỘT TỶ GÓI MÈ ?? ',
     btnReply: 'GỬI',
     reply: 'TRẢ LỜII',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
+    mess: 'Haizzz :> ',
     messDesc: 'HNAY HỌC TIẾNG ANH VS ANH NHAA',
     btnAccept: 'Okiiiii lun ',
     messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
